@@ -1,0 +1,51 @@
+CACNumber,FirstName,LastName,PreferredName,HireDate,EmploymentStatus,Department,Division,JobTitle,WorkLocation,ManagerCode,EmployeeType,Program
+1000,James,Johnson,James,2014-01-15 00:00:00.000000,Active,Program Management,Program Operations,Project Analyst,"Riverside, CA",MGR001,Employee,Atlas Defense Systems
+1001,Michael,Smith,Mike,2014-04-17 20:04:53.877551,Active,Information Technology,Enterprise Technology,Database Administrator,"Riverside, CA",MGR004,Employee,Falcon Shield
+1002,Robert,Williams,Rob,2014-07-19 16:09:47.755102,Active,Operations,Program Operations,Mission Support Specialist,"Palmdale, CA",MGR003,Employee,Falcon Shield
+1003,John,Brown,John,2014-10-20 12:14:41.632653,Active,Cybersecurity,Cyber Operations,Cybersecurity Analyst,"El Segundo,CA",MGR003,Employee,Sentinel Horizon
+1004,David,Jones,David,2015-01-21 08:19:35.510204,Active,Human Resources,Corporate Services,HR Business Partner,"Arlington, VA",MGR005,Employee,Orion Mission Support
+1005,William,Garcia,Will,2015-04-24 04:24:29.387755,Active,Engineering,Mission Systems,Data Engineer,"Palmdale, CA",MGR001,Employee,Orion Mission Support
+1006,Richard,Miller,Richard,2015-07-26 00:29:23.265306,Active,Security,Security Operations,Security Specialist,"Colorado Springs, CO",MGR004,Employee,Guadian Edge
+1007,Joseph,Davis,Joseph,2015-10-26 20:34:17.142857,Active,Security,Security Operations,Industrial Security Analyst,"Palmdale, CA",MGR006,Employee,Guadian Edge
+1008,Thomas,Rodriquez,Thomas,2016-01-27 16:39:11.020408,Active,Quality Assurance,Mission Assurance,Quality Assurance Analyst,"Palmdale, CA",MGR005,Employee,Orion Mission Support
+1009,Charles,Martinez,Charles,2016-04-29 12:44:04.897959,Active,Program Management,Program Operations,Project Analyst,"Riverside, CA",MGR004,Employee,Falcon Shield
+1010,Mary,Hernandez,Mary,2016-07-31 08:48:58.775510,Leave,Program Management,Program Operations,Program Manager,"Huntsville, AL",MGR002,Contractor,Guadian Edge
+1011,Patricia,Lopez,Trish,2016-11-01 04:53:52.653061,Active,Engineering,Mission Systems,Software Engineer,"El Segundo,CA",MGR005,Employee,Guadian Edge
+1012,Jennifer,Gonzales,Jen,2017-02-02 00:58:46.530612,Active,Engineering,Mission Systems,Systems Engineer,"El Segundo,CA",MGR001,Contractor,Sentinel Horizon
+1013,Linda,Wilson,Linda,2017-05-05 21:03:40.408163,Active,Cybersecurity,Cyber Operations,Security Engineer,"Huntsville, AL",MGR005,Employee,Falcon Shield
+1014,Elizabeth,Andrson,Liz,2017-08-06 17:08:34.285714,Active,Engineering,Mission Systems,Data Engineer,"Colorado Springs, CO",MGR006,Employee,Atlas Defense Systems
+1015,Barbara,Thomas,Barbara,2017-11-07 13:13:28.163265,Leave,Information Technology,Enterprise Technology,Systems Administrator,"Colorado Springs, CO",MGR003,Contractor,Guadian Edge
+1016,Susan,Taylor,Susan,2018-02-08 09:18:22.040816,Active,Supply Chain,Program Operations,Logistics Analyst,"Arlington, VA",MGR006,Contractor,Orion Mission Support
+1017,Jessica,Moore,Jessica,2018-05-12 05:23:15.918367,Active,Finance,Corporate Services,Cost Analyst,"Huntsville, AL",MGR001,Employee,Guadian Edge
+1018,Sarah,Jackson,Sarah,2018-08-13 01:28:09.795918,Active,Supply Chain,Program Operations,Logistics Analyst,"San Diego, CA",MGR006,Employee,Guadian Edge
+1019,Karen,Martin,Karen,2018-11-13 21:33:03.673469,Separated,Security,Security Operations,Personnel Security Analyst,"Arlington, VA",MGR002,Employee,Falcon Shield
+1020,William,Lee,Will,2019-02-14 17:37:57.551020,Active,Engineering,Mission Systems,Systems Engineer,"San Diego, CA",MGR003,Employee,Atlas Defense Systems
+1021,William,Perez,Will,2019-05-18 13:42:51.428571,Active,Finance,Corporate Services,Cost Analyst,"Palmdale, CA",MGR006,Employee,Sentinel Horizon
+1022,Susan,Thompson,Susan,2019-08-19 09:47:45.306122,Active,Quality Assurance,Mission Assurance,Quality Engineer,"Huntsville, AL",MGR004,Contractor,Falcon Shield
+1023,David,White,David,2019-11-20 05:52:39.183673,Active,Operations,Program Operations,Operations Coordinator,"Huntsville, AL",MGR002,Employee,Sentinel Horizon
+1024,Charles,Harris,Charles,2020-02-21 01:57:33.061224,Separated,Quality Assurance,Mission Assurance,Configuration Management Analyst,"San Diego, CA",MGR006,Employee,Atlas Defense Systems
+1025,David,Sanchez,David,2020-05-23 22:02:26.938775,Active,Supply Chain,Program Operations,Supply Chain Analyst,"Riverside, CA",MGR001,Employee,Guadian Edge
+1026,William,Clark,Will,2020-08-24 18:07:20.816326,Active,Finance,Corporate Services,Budget Analyst,"Arlington, VA",MGR003,Contractor,Sentinel Horizon
+1027,Jennifer,Ramirez,Jen,2020-11-25 14:12:14.693877,Active,Human Resources,Corporate Services,Human Resources Specialist,"El Segundo,CA",MGR006,Employee,Guadian Edge
+1028,Elizabeth,Lewis,Liz,2021-02-26 10:17:08.571428,Active,Cybersecurity,Cyber Operations,Security Engineer,"El Segundo,CA",MGR002,Employee,Falcon Shield
+1029,Jennifer,Robinson,Jen,2021-05-30 06:22:02.448979,Active,Human Resources,Corporate Services,HR Business Partner,"Arlington, VA",MGR002,Employee,Atlas Defense Systems
+1030,Sarah,Walker,Sarah,2021-08-31 02:26:56.326530,Leave,Supply Chain,Program Operations,Supply Chain Analyst,"Colorado Springs, CO",MGR003,Contractor,Sentinel Horizon
+1031,Linda,Young,Linda,2021-12-01 22:31:50.204081,Active,Cybersecurity,Cyber Operations,Security Engineer,"San Diego, CA",MGR001,Employee,Atlas Defense Systems
+1032,Sarah,Allen,Sarah,2022-03-04 18:36:44.081632,Active,Program Management,Program Operations,Program Manager,"San Diego, CA",MGR004,Contractor,Atlas Defense Systems
+1033,William,King,Will,2022-06-05 14:41:37.959183,Active,Security,Security Operations,Industrial Security Analyst,"San Diego, CA",MGR002,Employee,Sentinel Horizon
+1034,Sarah,Wright,Sarah,2022-09-06 10:46:31.836734,Separated,Operations,Program Operations,Mission Support Specialist,"Huntsville, AL",MGR006,Employee,Falcon Shield
+1035,Jessica,Scott,Jessica,2022-12-08 06:51:25.714285,Active,Security,Security Operations,Industrial Security Analyst,"San Diego, CA",MGR001,Employee,Orion Mission Support
+1036,Richard,Torres,Richard,2023-03-11 02:56:19.591836,Active,Operations,Program Operations,Mission Support Specialist,"El Segundo,CA",MGR002,Employee,Atlas Defense Systems
+1037,Karen,Nguyen,Karen,2023-06-11 23:01:13.469387,Active,Finance,Corporate Services,Financial Analyst,"Colorado Springs, CO",MGR003,Employee,Orion Mission Support
+1038,Susan,Hill,Susan,2023-09-12 19:06:07.346938,Active,Information Technology,Enterprise Technology,Database Administrator,"San Diego, CA",MGR005,Employee,Falcon Shield
+1039,Charles,Flores,Charles,2023-12-14 15:11:01.224489,Active,Operations,Program Operations,Operations Coordinator,"Colorado Springs, CO",MGR004,Employee,Orion Mission Support
+1040,Jessica,Green,Jessica,2024-03-16 11:15:55.102040,Active,Human Resources,Corporate Services,HR Business Partner,"Riverside, CA",MGR001,Contractor,Orion Mission Support
+1041,Mary,Adam,Mary,2024-06-17 07:20:48.979591,Leave,Quality Assurance,Mission Assurance,Quality Engineer,"El Segundo,CA",MGR006,Contractor,Orion Mission Support
+1042,Jessica,Nelson,Jessica,2024-09-18 03:25:42.857142,Active,Finance,Corporate Services,Financial Analyst,"San Diego, CA",MGR004,Contractor,Guadian Edge
+1043,Jessica,Baker,Jessica,2024-12-19 23:30:36.734693,Active,Engineering,Mission Systems,Software Engineer,"Colorado Springs, CO",MGR001,Employee,Falcon Shield
+1044,Jennifer,Hall,Jen,2025-03-22 19:35:30.612244,Active,Program Management,Program Operations,Program Manager,"Riverside, CA",MGR002,Employee,Atlas Defense Systems
+1045,Thomas,Rivera,Thomas,2025-06-23 15:40:24.489795,Active,Supply Chain,Program Operations,Logistics Analyst,"Huntsville, AL",MGR002,Employee,Falcon Shield
+1046,Charles,Campbell,Charles,2025-09-24 11:45:18.367346,Active,Engineering,Mission Systems,Systems Engineer,"San Diego, CA",MGR004,Employee,Sentinel Horizon
+1047,Elizabeth,Mitchell,Liz,2025-12-26 07:50:12.244897,Active,Operations,Program Operations,Operations Analyst,"San Diego, CA",MGR001,Employee,Orion Mission Support
+1048,Sarah,Carter,Sarah,2026-03-29 03:55:06.122449,Separated,Supply Chain,Program Operations,Supply Chain Analyst,"Palmdale, CA",MGR001,Employee,Falcon Shield
+1049,William,Roberts,Will,2026-06-30 00:00:00.000000,Active,Operations,Program Operations,Mission Support Specialist,"Huntsville, AL",MGR004,Contractor,Guadian Edge

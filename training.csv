@@ -1,0 +1,51 @@
+TrainingID,CACNumber,TrainingType,AssignedDate,DueDate,TrainingStatus,Score
+8001,1012,Foreign Travel Security Training,2025-01-01 00:00:00.000000,2025-04-01 00:00:00.000000,Completed,88
+8002,1016,Foreign Travel Security Training,2025-01-12 02:56:19.591836,2025-04-12 02:56:19.591836,Completed,84
+8003,1014,Foreign Travel Security Training,2025-01-23 05:52:39.183673,2025-04-23 05:52:39.183673,Completed,91
+8004,1048,Controlled Unclassified Information (CUI) Training,2025-02-03 08:48:58.775510,2025-05-04 08:48:58.775510,Completed,91
+8005,1041,Cybersecurity Awareness,2025-02-14 11:45:18.367346,2025-05-15 11:45:18.367346,Overdue,98
+8006,1023,Foreign Travel Security Training,2025-02-25 14:41:37.959183,2025-05-26 14:41:37.959183,Overdue,89
+8007,1042,Controlled Unclassified Information (CUI) Training,2025-03-08 17:37:57.551020,2025-06-06 17:37:57.551020,Completed,83
+8008,1028,Insider Threat Awareness,2025-03-19 20:34:17.142857,2025-06-17 20:34:17.142857,Completed,89
+8009,1021,Insider Threat Awareness,2025-03-30 23:30:36.734693,2025-06-28 23:30:36.734693,Completed,85
+8010,1007,Controlled Unclassified Information (CUI) Training,2025-04-11 02:26:56.326530,2025-07-10 02:26:56.326530,Completed,86
+8011,1030,Insider Threat Awareness,2025-04-22 05:23:15.918367,2025-07-21 05:23:15.918367,Completed,75
+8012,1044,Insider Threat Awareness,2025-05-03 08:19:35.510204,2025-08-01 08:19:35.510204,Completed,80
+8013,1017,Cybersecurity Awareness,2025-05-14 11:15:55.102040,2025-08-12 11:15:55.102040,Completed,83
+8014,1014,Insider Threat Awareness,2025-05-25 14:12:14.693877,2025-08-23 14:12:14.693877,Completed,91
+8015,1030,Controlled Unclassified Information (CUI) Training,2025-06-05 17:08:34.285714,2025-09-03 17:08:34.285714,Overdue,84
+8016,1024,Cybersecurity Awareness,2025-06-16 20:04:53.877551,2025-09-14 20:04:53.877551,Completed,93
+8017,1015,Controlled Unclassified Information (CUI) Training,2025-06-27 23:01:13.469387,2025-09-25 23:01:13.469387,Overdue,76
+8018,1032,Foreign Travel Security Training,2025-07-09 01:57:33.061224,2025-10-07 01:57:33.061224,Completed,79
+8019,1018,Insider Threat Awareness,2025-07-20 04:53:52.653061,2025-10-18 04:53:52.653061,Completed,93
+8020,1049,Insider Threat Awareness,2025-07-31 07:50:12.244897,2025-10-29 07:50:12.244897,Completed,83
+8021,1046,Insider Threat Awareness,2025-08-11 10:46:31.836734,2025-11-09 10:46:31.836734,Completed,77
+8022,1001,Foreign Travel Security Training,2025-08-22 13:42:51.428571,2025-11-20 13:42:51.428571,Completed,83
+8023,1006,Controlled Unclassified Information (CUI) Training,2025-09-02 16:39:11.020408,2025-12-01 16:39:11.020408,Completed,83
+8024,1031,Foreign Travel Security Training,2025-09-13 19:35:30.612244,2025-12-12 19:35:30.612244,Completed,96
+8025,1016,Foreign Travel Security Training,2025-09-24 22:31:50.204081,2025-12-23 22:31:50.204081,Completed,96
+8026,1006,Insider Threat Awareness,2025-10-06 01:28:09.795918,2026-01-04 01:28:09.795918,Completed,87
+8027,1029,Cybersecurity Awareness,2025-10-17 04:24:29.387755,2026-01-15 04:24:29.387755,Completed,88
+8028,1018,Foreign Travel Security Training,2025-10-28 07:20:48.979591,2026-01-26 07:20:48.979591,Overdue,96
+8029,1024,Controlled Unclassified Information (CUI) Training,2025-11-08 10:17:08.571428,2026-02-06 10:17:08.571428,Overdue,86
+8030,1017,Annual Security Awareness Training,2025-11-19 13:13:28.163265,2026-02-17 13:13:28.163265,Completed,96
+8031,1013,Controlled Unclassified Information (CUI) Training,2025-11-30 16:09:47.755102,2026-02-28 16:09:47.755102,Completed,90
+8032,1043,Insider Threat Awareness,2025-12-11 19:06:07.346938,2026-03-11 19:06:07.346938,Overdue,95
+8033,1042,Insider Threat Awareness,2025-12-22 22:02:26.938775,2026-03-22 22:02:26.938775,Completed,84
+8034,1029,Controlled Unclassified Information (CUI) Training,2026-01-03 00:58:46.530612,2026-04-03 00:58:46.530612,Completed,87
+8035,1014,Insider Threat Awareness,2026-01-14 03:55:06.122448,2026-04-14 03:55:06.122448,Completed,76
+8036,1010,Foreign Travel Security Training,2026-01-25 06:51:25.714285,2026-04-25 06:51:25.714285,Completed,95
+8037,1036,Annual Security Awareness Training,2026-02-05 09:47:45.306122,2026-05-06 09:47:45.306122,Completed,84
+8038,1034,Annual Security Awareness Training,2026-02-16 12:44:04.897959,2026-05-17 12:44:04.897959,Completed,86
+8039,1024,Insider Threat Awareness,2026-02-27 15:40:24.489795,2026-05-28 15:40:24.489795,In Progress,88
+8040,1038,Foreign Travel Security Training,2026-03-10 18:36:44.081632,2026-06-08 18:36:44.081632,Overdue,78
+8041,1029,Cybersecurity Awareness,2026-03-21 21:33:03.673469,2026-06-19 21:33:03.673469,Completed,90
+8042,1009,Annual Security Awareness Training,2026-04-02 00:29:23.265306,2026-07-01 00:29:23.265306,Overdue,75
+8043,1036,Controlled Unclassified Information (CUI) Training,2026-04-13 03:25:42.857142,2026-07-12 03:25:42.857142,Completed,92
+8044,1044,Cybersecurity Awareness,2026-04-24 06:22:02.448979,2026-07-23 06:22:02.448979,In Progress,80
+8045,1006,Foreign Travel Security Training,2026-05-05 09:18:22.040816,2026-08-03 09:18:22.040816,Completed,82
+8046,1041,Annual Security Awareness Training,2026-05-16 12:14:41.632653,2026-08-14 12:14:41.632653,Completed,83
+8047,1016,Annual Security Awareness Training,2026-05-27 15:11:01.224489,2026-08-25 15:11:01.224489,Completed,94
+8048,1017,Cybersecurity Awareness,2026-06-07 18:07:20.816326,2026-09-05 18:07:20.816326,Overdue,79
+8049,1030,Controlled Unclassified Information (CUI) Training,2026-06-18 21:03:40.408163,2026-09-16 21:03:40.408163,In Progress,93
+8050,1017,Controlled Unclassified Information (CUI) Training,2026-06-30 00:00:00.000000,2026-09-28 00:00:00.000000,Completed,87

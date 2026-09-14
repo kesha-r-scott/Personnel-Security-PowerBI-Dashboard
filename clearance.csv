@@ -1,0 +1,51 @@
+ClearanceID,CACNumber,ClearanceLevel,ClearanceStatus,IssueDate,ExpirationDate,LastReviewDate,NextReviewDate,EligibilityStatus,AccessStatus,ContinuousVetting
+5001,1000,Top Secret,Active,2018-01-01,2023-01-01,2020-01-01,2022-01-01,Eligible,Not Granted,No
+5002,1001,Confidential,Active,2018-03-01,2023-03-01,2020-03-01,2022-03-01,Eligible,Granted,Yes
+5003,1002,Confidential,Suspended,2018-04-30,2023-04-30,2020-04-30,2022-04-30,Eligible,Granted,No
+5004,1003,Top Secret,Active,2018-06-28,2023-06-28,2020-06-28,2022-06-28,Interim,Granted,Yes
+5005,1004,Secret,Pending,2018-08-27,2023-08-27,2020-08-27,2022-08-27,Eligible,Not Granted,Yes
+5006,1005,Secret,Active,2018-10-26,2023-10-26,2020-10-26,2022-10-26,Eligible,Granted,Yes
+5007,1006,Confidential,Active,2018-12-24,2023-12-24,2020-12-24,2022-12-24,Interim,Suspended,Yes
+5008,1007,Secret,Active,2019-02-22,2024-02-22,2021-02-22,2023-02-22,Interim,Granted,Yes
+5009,1008,Secret,Pending,2019-04-22,2024-04-22,2021-04-22,2023-04-22,Eligible,Granted,Yes
+5010,1009,Top Secret,Active,2019-06-21,2024-06-21,2021-06-21,2023-06-21,Pending,Granted,Yes
+5011,1010,Confidential,Active,2019-08-20,2024-08-20,2021-08-20,2023-08-20,Pending,Not Granted,No
+5012,1011,Secret,Active,2019-10-18,2024-10-18,2021-10-18,2023-10-18,Eligible,Granted,Yes
+5013,1012,Top Secret,Pending,2019-12-17,2024-12-17,2021-12-17,2023-12-17,Eligible,Suspended,Yes
+5014,1013,Secret,Active,2020-02-14,2025-02-14,2022-02-14,2024-02-14,Pending,Not Granted,Yes
+5015,1014,Top Secret,Pending,2020-04-14,2025-04-14,2022-04-14,2024-04-14,Pending,Not Granted,Yes
+5016,1015,Secret,Active,2020-06-13,2025-06-13,2022-06-13,2024-06-13,Eligible,Granted,Yes
+5017,1016,Secret,Pending,2020-08-11,2025-08-11,2022-08-11,2024-08-11,Pending,Not Granted,Yes
+5018,1017,Top Secret,Suspended,2020-10-10,2025-10-10,2022-10-10,2024-10-10,Pending,Suspended,Yes
+5019,1018,Secret,Active,2020-12-09,2025-12-09,2022-12-09,2024-12-09,Eligible,Suspended,Yes
+5020,1019,Top Secret,Pending,2021-02-06,2026-02-06,2023-02-06,2025-02-06,Pending,Suspended,No
+5021,1020,Confidential,Active,2021-04-07,2026-04-07,2023-04-07,2025-04-07,Eligible,Suspended,Yes
+5022,1021,Top Secret,Active,2021-06-05,2026-06-05,2023-06-05,2025-06-05,Eligible,Granted,Yes
+5023,1022,Top Secret,Active,2021-08-04,2026-08-04,2023-08-04,2025-08-04,Eligible,Suspended,Yes
+5024,1023,Secret,Pending,2021-10-03,2026-10-03,2023-10-03,2025-10-03,Eligible,Granted,Yes
+5025,1024,Top Secret,Pending,2021-12-01,2026-12-01,2023-12-01,2025-12-01,Eligible,Not Granted,Yes
+5026,1025,Secret,Suspended,2022-01-30,2027-01-30,2024-01-30,2026-01-30,Eligible,Not Granted,Yes
+5027,1026,Secret,Active,2022-03-30,2027-03-30,2024-03-30,2026-03-30,Eligible,Granted,No
+5028,1027,Confidential,Pending,2022-05-29,2027-05-29,2024-05-29,2026-05-29,Interim,Not Granted,Yes
+5029,1028,Top Secret,Active,2022-07-28,2027-07-28,2024-07-28,2026-07-28,Eligible,Granted,Yes
+5030,1029,Top Secret,Pending,2022-09-25,2027-09-25,2024-09-25,2026-09-25,Pending,Not Granted,Yes
+5031,1030,Secret,Active,2022-11-24,2027-11-24,2024-11-24,2026-11-24,Interim,Not Granted,Yes
+5032,1031,Confidential,Active,2023-01-22,2028-01-22,2025-01-22,2027-01-22,Pending,Granted,Yes
+5033,1032,Top Secret,Pending,2023-03-23,2028-03-23,2025-03-23,2027-03-23,Eligible,Not Granted,Yes
+5034,1033,Confidential,Active,2023-05-22,2028-05-22,2025-05-22,2027-05-22,Pending,Granted,Yes
+5035,1034,Top Secret,Active,2023-07-20,2028-07-20,2025-07-20,2027-07-20,Eligible,Not Granted,No
+5036,1035,Top Secret,Active,2023-09-18,2028-09-18,2025-09-18,2027-09-18,Pending,Granted,Yes
+5037,1036,Top Secret,Active,2023-11-17,2028-11-17,2025-11-17,2027-11-17,Pending,Granted,Yes
+5038,1037,Secret,Active,2024-01-15,2029-01-15,2026-01-15,2028-01-15,Eligible,Suspended,Yes
+5039,1038,Confidential,Suspended,2024-03-15,2029-03-15,2026-03-15,2028-03-15,Eligible,Not Granted,Yes
+5040,1039,Top Secret,Suspended,2024-05-13,2029-05-13,2026-05-13,2028-05-13,Eligible,Not Granted,Yes
+5041,1040,Top Secret,Pending,2024-07-12,2029-07-12,2026-07-12,2028-07-12,Eligible,Suspended,No
+5042,1041,Secret,Pending,2024-09-10,2029-09-10,2026-09-10,2028-09-10,Eligible,Suspended,Yes
+5043,1042,Confidential,Suspended,2024-11-08,2029-11-08,2026-11-08,2028-11-08,Eligible,Granted,Yes
+5044,1043,Confidential,Active,2025-01-07,2030-01-07,2027-01-07,2029-01-07,Eligible,Granted,Yes
+5045,1044,Secret,Active,2025-03-07,2030-03-07,2027-03-07,2029-03-07,Eligible,Granted,No
+5046,1045,Secret,Active,2025-05-06,2030-05-06,2027-05-06,2029-05-06,Eligible,Suspended,No
+5047,1046,Secret,Suspended,2025-07-05,2030-07-05,2027-07-05,2029-07-05,Eligible,Granted,Yes
+5048,1047,Secret,Active,2025-09-02,2030-09-02,2027-09-02,2029-09-02,Eligible,Granted,Yes
+5049,1048,Secret,Active,2025-11-01,2030-11-01,2027-11-01,2029-11-01,Pending,Not Granted,Yes
+5050,1049,Confidential,Pending,2025-12-31,2030-12-31,2027-12-31,2029-12-31,Eligible,Granted,Yes

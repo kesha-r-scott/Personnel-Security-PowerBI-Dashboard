@@ -3,6 +3,10 @@ Kesha Scott
 Data | Database | Business Systems Engineering | Power BI | SQL | Python
 # Personnel Security Analytics Dashboard
 
+## Dashboard Preview
+
+![Personnel Security Power BI Dashboard](dashboard-overview.png)
+
 A Power BI personnel security dashboard built with Python-generated data, Power Query, and a relational data model.
 
 This project demonstrates how personnel, clearance, incident, training, and badge-access data can be organized into a clean analytical model and transformed into an executive-level security dashboard.
